@@ -1,3 +1,5 @@
+//This program is designed to operate a rudimentary "solar panel" along 2 dimensions in order to maximize the light exposure//
+
 #include <Stepper.h>
 #include <Servo.h>
 Servo myservo;
